@@ -1,0 +1,133 @@
+sample_name,Species,Genus,Family,Order,Clade,Reference,Sister taxa,tipage_low(mya),tipage_up(mya),node label,age (mya),age range,resource
+Sapindaceae_Acer_florissantii_Florissant_CU_0114cu_crop,Acer florissantii,Acer,Sapindaceae,Rosales,rosids,Genus Acer,Genus Acer,37.2,28.4,Acer,56.8,56.8 - 0.0,paleodb
+Osmundaceae_Acrostichites_sp_yale1,Acrostichites sp.,Acrostichites,Osmundaceae,Osmundales,ferns,Cibotium_splendens-Cyathea_fulva,Cyatheales,237,201.4,,,,
+Pteridaceae_Acrostichum_hesperium_ucmp1,Acrostichum hesperium,Acrostichum,Pteridaceae,Polypodiales,ferns,Genus Acrostichum,Genus Acrostichum,56,48.6,,,,
+Alethopteridaceae_Alethopteris_sullivanti_mason5,Alethopteris sullivanti,Alethopteris,Alethopteridaceae,Medullosales,gymnosperms,Taeniopteris_sp-Nilssonia_sp,Cycadales,303,122.46,Medullosales,358.9,358.9 - 145.00,paleodb
+Medullosaceae_Alethopteris_whitneyi_yale2,Alethopteris whitneyi,Alethopteris,Alethopteridaceae,Medullosales,gymnosperms,Alethopteris_sullivanti,Cycadales,252,201,,,,
+Polypodiaceae_Allantodiopsis_erosa_yale3,Allantodiopsis erosa,Allantodiopsis,Polypodiaceae,Polypodiales,ferns,Lemmaphyllum_microphyllum-Davallia_heterophylla,Polypodiales,65.5,55.8,Polypodiales,393.3,393.3 - 0.00,paleodb
+Cyatheaceae_Alsophila_notabilis_gbif12,Alsophila notabilis,Alsophila,Cyatheaceae,Cyatheales,ferns,Cyathea_fulva-Cyathea_pinnata,Cyatheaceae,59.2,56,,,,
+Pomaceae_Amelanchier_dignatus13312_florida1,Amelanchier dignatus,Amelanchier,Pomaceae,Rosales,rosids,Genus Amelanchier,Genus Amelanchier,33.9,23,Amelanchier,37.2,37.2 - 0.0,paleodb
+Hamamelidaceae_Anceptophyllum_pulcrum_yale4,Anceptophyllum pulcrum,Anceptophyllum,Hamamelidaceae,Saxifragales,basal eudicots,Corylopsis_veitchiana-Hamamelis_virginiana,Hamamelidaceae,83.6,74.8,Hamamelidaceae,100.5,100.5 - 0.3,paleodb
+Anemiaceae_Anemia_elongata_yale5,Anemia elongata,Anemia,Anemiaceae,Schizaeales,ferns,Genus Anemia,Genus Anemia,72.1,66,Anemia,140.2,140.2 - 41.3,paleodb
+Anomozamites gracilis_Pott,Anomozamites gracilis,Anomozamites,Williamsoniaceae,Bennettitales,gymnosperms,Taeniopteris_sp-Nilssonia_sp,Cycadales,208.5,201.4,,,,
+Rutaceae_Araliopsis_cretaceum_yale6,Araliopsis cretaceum,Araliopsis,Rutaceae,Sapindales,rosids,Choisya_arizonica-Megastigma_skinneri,Rutaceae,100.5,93.9,Rutaceae,100.5,100.5 - 0.3,paleodb
+Platanaceae_Aspidiophyllum_trilobatum_yale7,Aspidiophyllum trilobatum,Aspidiophyllum,Platanaceae,Proteales,basal eudicots,Platanus_orientalis-Platanus_racemosa,Platanus,100.5,93.9,Platanaceae,112.03,112.03 - 0.01,paleodb
+Atherospermataceae_Atherospermophyllum_guinazui_MPEF-Pb_MPEF-Pb-5639_crop,Atherospermophyllum guinazui,Atherospermophyllum ,Atherospermataceae,Laurales,basal angiosperms,Gomortega_keule-Siparuna_decipiens,Gomortegaceae,55.8,48.6,Atherospermataceae,83.5,83.5 -0.0,paleodb
+Betulaceae_Betula_leopoldae_alberta3,Betula leopoldae,Betula,Betulaceae,Fagales,rosids,Genus Betula,Genus Betula,47.8,38,,,,
+Sapotaceae_Bumelia_subspathulata_gbif19,Bumelia subspathulata,Bumelia,Sapotaceae,Ericales,asterids,Genus Bumelia,Genus Bumelia,23.3,20.43,Bumelia,48.6,48.6 - 2.59,paleodb
+Betulaceae_Carpinus_cuspidata_gbif7,Carpinus cuspidata,Carpinus,Betulaceae,Fagales,rosids,Genus Carpinus,Genus Carpinus,59.2,0,,,,
+Juglandaceae_Carya_libbeyi_Florissant_FLFO_004143_crop,Carya libbeyi,Carya ,Juglandaceae,Fagales,rosids,Genus Carya,Genus Carya,101,84,,,,
+Fagaceae_Castaneophyllum_patagonicum_MPEF-Pb_MPEF-Pb-8202_crop,Castaneophyllum patagonicum,Castaneophyllum ,Fagaceae,Fagales,rosids,Fagus_sylvatica-Quercus_snookensis,Fagaceae,55.8,55.8,Fagaceae,105.3,105.3 - 0.00,paleodb
+Ulmaceae_Cedrelospermum_lineatum_Florissant_FLFO_003367A_crop,Cedrelospermum lineatum,Cedrelospermum,Ulmaceae,Rosales,rosids,Ulmus_crassifolia-Zelkova_serrata,Ulmus,37.2,33.9,Ulmaceae,109,109.0 - 0.0,paleodb
+Cercidiphyllaceae_Cercidiphyllum_genetrix_WilfWilf_USNM-loc-42041-060crop,Cercidiphyllum genetrix,Cercidiphyllum ,Cercidiphyllaceae,Saxifragales,basal eudicots,Genus Cercidiphyllum,Saxifragales,70.6,50.3,Cercidiphyllaceae,113,113.00 - 0.78,paleodb
+Rosaceae_Cercocarpus_myricaefolius_Florissant_FLFO_004022_crop,Cercocarpus myricaefolius,Cercocarpus,Rosaceae,Rosales,rosids,Rosa_californica-Rubus_odoratus,"Rubus, Rosa",37.2,28.4,,,,
+Cladophlebis fascinervata_Dengetal2017,Cladophlebis fascinervata,Cladophlebis,Osmundaceae,Osmundales,ferns,Cladophlebis_wielandi,Genus Cladophlebis,201.3,174.1,,,,
+Osmundaceae_Cladophlebis_kurtzi_yale8,Cladophlebis kurtzi,Cladophlebis,Osmundaceae,Osmundales,ferns,Cladophlebis_wielandi,Genus Cladophlebis,247.2,237,,,,
+Osmundaceae_Cladophlebis_mesozoica_yale9,Cladophlebis mesozoica,Cladophlebis,Osmundaceae,Osmundales,ferns,Cladophlebis_wielandi,Genus Cladophlebis,247.2,237,,,,
+Osmundaceae_Cladophlebis_wielandi_yale10,Cladophlebis wielandi,Cladophlebis,Osmundaceae,Osmundales,ferns,Osmunda_sp-Osmunda_major,Osmunda,247.2,237,,,,
+Cladophlebis xilinhotensis_Dengetal2017,Cladophlebis xilinhotensis,Cladophlebis,Osmundaceae,Osmundales,ferns,Cladophlebis_wielandi,Genus Cladophlebis,201.3,174.1,,,,
+Dipteridaceae_Clathropteris_meniscioides_yale11,Clathropteris meniscioides,Clathropteris,Dipteridaceae,Gleicheniales,ferns,Hausmannia_sp-Vandenboschia_radicans,Dipteridaceae,242,201,Dipteridaceae,242,242.0 - 66.00,paleodb
+Cordaitaceae_Cordaites_principalis_gbif15,Cordaites principalis,Cordaites,Cordaitaceae,Cordaitanthales,gymnosperms,Torreya_geometrorum-Torreya_californica,Pinales,323.2,298.9,Cordaites,382.7,382.7 - 168.4,paleodb
+Cornaceae_Cornus_ovalis_yale12,Cornus ovalis,Cornus,Cornaceae,Cornales,asterids,Genus Cornus,Genus Cornus,33.9,27.82,Cornus,72.1,72.1 -0.01,paleodb
+Betulaceae_ Corylus_acutertiaria_yale13,Corylus acutertiaria,Corylus,Betulaceae,Fagales,rosids,Genus Corylus,Genus Corylus,59.2,56,Corylus,66,66.00 - 0.00,paleodb
+Betulaceae_Corylus_macquarrii_gbif18,Corylus macquarrii,Corylus,Betulaceae,Fagales,rosids,Genus Corylus,Genus Corylus,65,55,,,,
+Cyatheaceae_Cyathea_pinnata_ucmp2,Cyathea pinnata,Cyathea,Cyatheaceae,Cyatheales,ferns,Genus Cyathea,Genus Cyathea,48.6,37.2,Cyathea,237,237.00 - 0.00,paleodb
+Cyclopteridaceae_Cyclopteris_trichomanoides_mason3,Cyclopteris trichomanoides,Cyclopteris,Cyclopteridaceae,Medullosales,ferns,Alethopteris_sullivanti-Alethopteris_whitneyi,Cycadales,323.2,298.9,,,,
+Cynepteridaceae_Cynepteris_lasiophora_ucmp3,Cynepteris lasiophora,Cynepteris,Cynepteridaceae,Schizaeales,ferns,Cladophlebis_fascinervata-Acrostichites_sp,Osmundales,237,208.5,,,,
+Dryopteridaceae_Dryopteris_guyottii_Florissant_CU_0616_crop,Dryopteris guyottii,Dryopteris ,Dryopteridaceae,Polypodiales,ferns,Genus Dryopteris,Genus Dryopteris,34,34,,,,
+Eboracia lobifolia_Dengetal2017,Eboracia lobifolia,Eboracia,Dicksoniaceae,Cyatheales,ferns,Dicksonia_antarctica-Dicksonia_squarrosa,Dicksoniaceae,201.3,174.1,Dicksoniaceae,,,
+Fagaceae_Fagopsis_longifolia_Florissant_FLFO_003589B_crop,Fagopsis longifolia,Fagus ,Fagaceae,Fagales,rosids,Castaneophyllum_patagonicum,Castaneophyllum,37.2,33.9,,259,259.00 - 0.00,paleodb
+Moraceae_Ficus_artocarpoides_yale14,Ficus artocarpoides,Ficus,Moraceae,Rosales,rosids,Flabellaria,Flabellaria,72.1,66,Ficus,105.3,105.3 - 0.12,paleodb
+Arecaceae_Flabellaria_gargasensis_gbif8,Flabellaria gargasensis,Flabellaria,Arecaceae,Arecales,monocots,Iriartea_deltoidea,Iriartea,83.5,23.03,,,,
+Arecaceae_Flabellaria_libigiosa_gbif11,Flabellaria libigiosa,Flabellaria,Arecaceae,Arecales,monocots,Flabellaria_gargasensis,Genus Flabellaria,83.5,23.03,,,,
+Ginkogoaceae_Ginkgo_adiantoides_yale15,Ginkgo adiantoides ,Ginkgo,Ginkgoaceae,Ginkgoales,gymnosperms,Genus Ginkgo,Genus Ginkgo,113,100.5,,,,
+fossil1,Ginkgo cranei,Ginkgo,Ginkgoaceae,Ginkgoales,gymnosperms,Genus Ginkgo,Genus Ginkgo,59.2,56,,,,
+fossil2,Ginkgo gardneri,Ginkgo,Ginkgoaceae,Ginkgoales,gymnosperms,Genus Ginkgo,Genus Ginkgo,66,56,,,,
+Ginkgoites sp_Dengetal2017,Ginkgoites sp.1,Ginkgoites,Ginkgoaceae,Ginkgoales,gymnosperms,Ginkgoites_sp2,Genus Ginkgoites,201.3,174.1,,,,
+Ginkgoaceae_Ginkgoites_sp_MfN_gbif3,Ginkgoites sp.2,Ginkgoites,Ginkgoaceae,Ginkgoales,gymnosperms,Ginkgo_adiantoides-Ginkgo_gardneri,Ginkgo,237,120,,,,
+Hausmannia_leeiana_Dengetal2017,Hausmannia leeiana,Hausmannia,Dipteridaceae,Gleicheniales,ferns,Dipteris_lobbiana,Dipteris,201.3,174.1,,,,
+Hausmannia sp_Na2017,Hausmannia sp,Hausmannia,Dipteridaceae,Gleicheniales,ferns,Hausmannia_leeiana,Genus Hausmannia,174.1,163.5,,,,
+Hausmannia_ussuriensis_Dengetal2017,Hausmannia ussuriensis,Hausmannia,Dipteridaceae,Gleicheniales,ferns,Hausmannia_leeiana,Genus Hausmannia,201.3,174.1,,,,
+Cyatheaceae_Hemitelites_longaevus_gbif13,Hemitelites longaevus ,Hemitelites,Cyatheaceae,Cyatheales,ferns,Cyathea_fulva-Alsophila_notabilis,Cyatheaceae,59.2,56,,,,
+Jacutiella denticulata_Pott2017,Jacutiella denticulata,Jacutiella,NA,Cycadales,gymnosperms,Ginkgoites_sp1-Ginkgo_gardneri,Ginkgophyta,161.5,145,,,,
+Rosaceae_Kerria_antiqua_yale16,Kerria antiqua,Kerria,Rosaceae,Rosales,rosids,Prunus_gracilis-Hesperomeles_heterophylla,Rosaceae,37.71,33.9,,,,
+Sapindaceae_Koelreuteria_bipinnatoides_yale17,Koelreuteria bipinnatoides,Koelreuteria,Sapindaceae,Sapidanles,rosids,Acer_pentaphyllum-Ungnadia_speciosa,Sapindaceae,33.9,27.82,,,,
+Hamamelidaceae_Leepierceia_preartocarpoides_yale18,Leepierceia preartocarpoides,Leepierceia,Hamamelidaceae,Saxifragales,basal eudicots,Anceptophyllum_pulcrum,Anceptophyllum,72.1,66,,,,
+Proteaceae_Lomatia_preferruginea_MPEF-Pb_LH15(2009)-0376b_crop,Lomatia preferruginea,Lomatia,Proteaceae,Proteales,basal angiosperms,Telopea_truncata-Banksia_verticiliata,Proteaceae,55.8,48.6,Proteaceae,105.3,105.3 - 0.00,paleodb
+Lygodiaceae_Lygodium_kaulfussi_yale20,Lygodium kaulfussi ,Lygodium,Lygodiaceae,Schizaeales,ferns,Genus Lygodium,Genus Lygodium,55.8,33.9,,,,
+Marattiopsis patagonica_Escapa et al2013,Marattiopsis patagonica,Escapa,Marattiaceae,Marattiales,ferns,Angiopteris_evecta,Marattiaceae,201.3,174.1,,,,
+Araceae_Montrichardia_aquatica_SGC-ICP_SGC-ICP-0808_crop,Montrichardia aquatica,Montrichardia,Araceae,Alismatales,monocots,Philodendron_variifolium,Araceae,61.7,55.8,,,,
+Nelumbonaceae_Nelumbium protospeciosum_gbif16,Nelumbium protospeciosum,Nelumbium,Nelumbonaceae,Proteales,basal eudicots,Banksia_verticiliata-Lomatia_preferruginea,Proteaceae,23.3,20.43,,,,
+Medullosaceae_Neuropteris_clarksoni_mason6,Neuropteris clarksoni,Neuropteris,Medullosaceae,Medullosales,ferns,Alethopteris_sullivanti-Alethopteris_whitneyi,Alethopteris,358.9,145,,,,
+Medullosaceae_Neuropteris_plicata_mason1,Neuropteris plicata,Neuropteris,Medullosaceae,Medullosales,ferns,Neuropteris_clarksoni,Genus Neuropteris,323.2,298.9,,,,
+Medullosaceae_Neuropteris_sp_samnoble1,Neuropteris sp.,Neuropteris,Medullosaceae,Medullosales,ferns,Neuropteris_clarksoni,Genus Neuropteris,308,306.5,,,,
+Medullosaceae_Neuropteris_vermicalaris_mason4,Neuropteris vermicalaris,Neuropteris,Medullosaceae,Medullosales,ferns,Neuropteris_clarksoni,Genus Neuropteris,358.9,145,,,,
+Nilssonia sp_Scanuetal,Nilssonia sp,Nilssonia,Nilssoniaceae,Cycadales,gymnosperms,Encephalartos_marumii,Zamiaceae,174.1,163.5,,,,
+Nilssoniopteris neimenguensis_Dengetal2017,Nilssoniopteris neimenguensis,Nilssoniopteris,Williamsoniaceae,Bennettitales,gymnosperms,Anomozamites_gracilis,Cycadales,201.3,174.1,,,,
+Nymphaeaceae_Nymphaea_lignitica_MfN_gbif4,Nymphaea lignitica,Nymphaea,Nymphaeaceae,Nymphaeales,basal angiosperms,Genus Nymphaea,Genus Nymphaea,66,0,,,,
+Nymphaeaceae_Nymphaea_nalini_gbif17,Nymphaea nalini ,Nymphaea,Nymphaeaceae,Nymphaeales,basal angiosperms,Genus Nymphaea,Genus Nymphaea,23.3,20.43,,,,
+Onocleaceae_Onoclea_hesperia_yale21,Onoclea hesperia,Onoclea,Onocleaceae,Polypodiales,ferns,Genus Onoclea,Genus Onoclea,59.2,56,Onoclea,83.6,83.6 - 50.3,paleodb
+Osmundaceae_Osmunda_major_yale22,Osmunda major,Osmunda,Osmundaceae,Osmundales,ferns,Osmunda_sp,Acrostichites,72.1,66,,,,
+Osmundaceae_Osmunda_occidentalis_yale23,Osmunda occidentalis,Osmunda,Osmundaceae,Osmundales,ferns,Osmunda_sp,Genus Osmunda,37.71,33.9,,,,
+Osmundaceae_Osmunda_sp_ucmp5,Osmunda sp.,Osmunda,Osmundaceae,Osmundales,ferns,Acrostichites_sp,Genus Osmunda,242,0,,,,
+Otozamites bengalensis_McLoughlin2009,Otozamites bengalensis ,Otozamites ,Williamsoniaceae,Bennettitales,gymnosperms,Anomozamites_gracilis,Cycadales,161.5,145,,,,
+Otozamites bunburyanus_Pott,Otozamites bunburyanus,Otozamites ,Williamsoniaceae,Bennettitales,gymnosperms,Otozamites_bengalensis ,Cycadales,161.5,145,,,,
+Otozamites linearis_McLoughlin2009,Otozamites linearis,Otozamites ,Williamsoniaceae,Bennettitales,gymnosperms,Otozamites_bengalensis ,Genus Otozamites,161.5,145,,,,
+Otozamites sp_McLoughlin2009,Otozamites sp.,Otozamites ,Williamsoniaceae,Bennettitales,gymnosperms,Otozamites_bengalensis ,Genus Otozamites,161.5,145,,,,
+Marattiaceae_Pecopteris_sp_alberta2,Pecopteris sp.,Pecopteris,Marattiaceae,Marattiales,ferns,Angiopteris_evecta,Marattiaceae,358.9,122.46,,,,
+Lauraceae_Persites_argutus_USNM_USNM-498036_crop,Persites argutus,Persites ,Lauraceae,Laurales,basal angiosperms,Endiandra_elaeocarpa-Ocotea_dendrodaphne,Lauraceae,58.7,55.8,Lauraceae,125,125.0 - 0.01,paleodb
+Poaceae_Phragmites_alaskana_yale24,Phragmites alaskana,Phragmites,Poaceae,Poales,monocots,Calamagrostis_nutkaensis-Chusquea_sp.,Poaceae,33.9,28.1,Poaceae,130,130.0 - 0.00,paleodb
+Podocarpaceae_Podozamites_lanceolatus_yale25,Podozamites lanceolatus ,Podozamites,Podocarpaceae,Coniferales,gymnosperms,Nilssoniopteris_neimenguensis-Yabeiella_wielandi,Bennettitales,247.2,237,,,,
+Salicaceae_Populus_adamentea_yale26,Populus adamentea,Populus,Salicaceae,Malpighiales,rosids,Genus Populus,Genus Populus,33.9,28.1,Populus,113,113.00 - 0.00,paleodb
+Salicaceae_Populus_balsamoides_yale27,Populus balsamoides,Populus,Salicaceae,Malpighiales,rosids,Genus Populus,Genus Populus,33.9,28.1,,,,
+Salicaceae_Populus_crassa_Florissant_FLFO_003953B_crop,Populus crassa,Populus,Salicaceae,Rosales,rosids,Genus Populus,Genus Populus,37.2,28.4,,,,
+Salicaceae_Populus_lindgreni_yale28,Populus lindgreni,Populus,Salicaceae,Malpighiales,rosids,Genus Populus,Genus Populus,33.9,28.1,,,,
+Moraceae_Protoficus_insignis_gbif14,Protoficus insignis,Protoficus,Moraceae,Rosales,rosids,Ficus_ampelos-Ficus_artocarpoides,Ficus,59.2,56,,,,
+Platanaceae_Protophyllum_haydenii_yale29,Protophyllum haydenii,Protophyllum,Platanaceae,Proteales,basal eudicots,Aspidiophyllum_trilobatum,Aspidiophyllum,100.5,93.9,,,,
+Rosaceae_Prunus_gracilis_Florissant_CU_0424cu_crop,Prunus gracilis,Prunus,Rosaceae,Rosales,rosids,Genus Prunus,Genus Prunus,37.2,33.9,Prunus,105.3,105.3 - 0.00,paleodb
+Pterophyllum aequale_Pott2009,Pterophyllum aequale,Pterophyllum,Williamsoniaceae,Bennettitales,gymnosperms,Anomozamites_gracilis,Cycadales,201.3,174.1,,,,
+Cycadaceae_Pterophyllum_robustum_yale30,Pterophyllum robustum,Pterophyllum,Williamsoniaceae,Bennettitales,gymnosperms,Pterophyllum_aequale,Cycadales,242,228,,,,
+Pterophyllum subaequale_Pott,Pterophyllum subaequale,Pterophyllum,Williamsoniaceae,Bennettitales,gymnosperms,Pterophyllum_aequale,Genus Pterophyllum,201.3,174.1,,,,
+Fagaceae_Quercus_scudderi_Florissant_FLFO_010672B_crop,Quercus scudderi,Quercus,Fagaceae,Fagales,rosids,Genus Quercus,Genus Quercus,37.2,33.9,Quercus,105.3,105.3 - 0.00,paleodb
+Fagaceae_Quercus_simulata_yale31,Quercus simulata,Quercus,Fagaceae,Fagales,rosids,Genus Quercus,Genus Quercus,27.82,23.03,,,,
+Fagaceae_Quercus_snookensis_13286_florida2,Quercus snookensis ,Quercus,Fagaceae,Fagales,rosids,Genus Quercus,Genus Quercus,33.9,23,,,,
+Fabaceae_Robinia_californica_yale32,Robinia californica ,Robinia,Fabaceae,Fabales,rosids,Gliricidia_ehrenbergii-Cylista_preussii,Fabaceae,27.82,23.03,,,,
+Arecaceae_Sabalites_sp_yale33,Sabalites sp.,Sabalites,Arecaceae,Arecales,monocots,Astrocaryum_standleyanum-Flabellaria_libigiosa,Arecaceae,55.8,33.9,Arecaceae,237,237.0 - 0.00,paleodb
+Sagenopteris philippsii_Pott2017,Sagenopteris philippsii,Sagenopteris,Caytoniaceae,Caytoniales,gymnosperms,Ginkgo_adiantoides-Ginkgo_gardneri,Ginkgoales,161.5,145,,,,
+Salicaceae_Salix_ramaleyi_Florissant_CU_0201cu_crop,Salix ramaleyi,Salix,Salicaceae,Rosales,rosids,Genus Salix,Genus Salix,37.2,28.4,Salix,145,145.00 - 0.00,paleodb
+Lauraceae_Sassafras_cretaceum_yale34,Sassafras cretaceum,Sassafras,Lauraceae,Laurales,basal angiosperms,Persites_argutus,Persites,100.5,9,,,,
+Sphenophyllaceae_Sphenophyllum_majus_mason7,Sphenophyllum majus,Sphenophyllum,Sphenophyllaceae,Sphenophyllales,ferns,Equisetum_telmateia,Equisetaceae,358.9,323.2,,,,
+Taeniopteris_elegans_yale35,Taeniopteris elegans,Taeniopteris,NA,Cycadales,gymnosperms,Encephalartos_marumii,Zamiaceae,252,201,,,,
+Taeniopteris_glossopteroides_yale36,Taeniopteris glossopteroides,Taeniopteris,NA,Cycadales,gymnosperms,Taeniopteris_elegans,Genus Taeniopteris,252,201,,,,
+Taeniopteris_sp_samnoble2,Taeniopteris sp.,Taeniopteris,NA,Cycadales,gymnosperms,Taeniopteris_elegans,Genus Taeniopteris,298.9,272.3,,,,
+Thelypteridaceae_Thelypteris cyclosorus_ucmp7,Thelypteris cyclosorus,Thelypteris ,Thelypteridaceae,Polypodiales,ferns,Genus Thelypteris,"Aspleniaceae, Onocleaceae",55.8,48.6,,,,
+Thinnfeldia_dutoiti_yale37,Pachypteris dutoiti ,Pachypteris,Umkomasiaceae,Peltaspermales,gymnosperms,Ginkgoites_sp1-Ginkgo_gardneri,Ginkgoales,247.2,237,,,,
+Hymenophyllaceae_Thyrsopteris_alata_yale38,Thyrsopteris alata,Thyrsopteris,Thyrsopteridaceae,Cyatheales,ferns,Thyrsopteris_insignis,Cyatheales,121.4,113,,,,
+Hymenophyllaceae_Thyrsopteris_insignis_yale39,Thyrsopteris insignis,Thyrsopteris,Thyrsopteridaceae,Cyatheales,ferns,Cyathea_fulva-Hemitelites_longaevus ,Genus Thyrsopteris,121.4,113,,,,
+Taxaceae_Torreya_geometrorum_Florissant_CU_0151_crop,Torreya geometrorum,Torreya,Taxaceae,Pinales,gymnosperms,Genus Torreya,Genus Torreya,37.2,33.9,,,,
+Triphyllopteris_rarinervis_yale41,Triphyllopteris rarinervis,Triphyllopteris,Sphenopteridae,Filicales,ferns,Asplenium_oblongifolium-Dryopteris_remota,Polypodiales,358,323.2,,,,
+Aspleniaceae_Turgofurcillopteris_crenulata_yale42,Turgofurcillopteris crenulata,Turgofurcillopteris,Aspleniaceae,Polypodiales,ferns,Asplenium_oblongifolium,Asplenium,83.6,72.1,,,,
+Typhaceae_Typha_latissima_gbif10,Typha latissima,Typha,Typhaceae,Poales,monocots,Genus Typha,Genus Typha,33.9,5.3,,,,
+Typhaceae_Typha_lesquereuxi_yale43,Typha lesquereuxi,Typha,Typhaceae,Poales,monocots,Genus Typha,Genus Typha,27.82,23.03,,,,
+Ericaceae_Vaccinium_sophoroides_yale44,Vaccinium sophoroides,Vaccinium,Ericaceae,Ericales,asterids,Genus Vaccinium,Genus Vaccinium,33.9,27.82,Vaccinium,66,66.0 - 2.59,paleodb
+Rosaceae_Vauquelinia_coloradensis_Florissant_FLFO_006921_crop,Vauquelinia coloradensis,Vauquelinia,Rosaceae,Rosales,rosids,Genus Vauquelinia,Genus Vauquelinia,37.2,33.9,Vauquelinia,48.6,48.6 - 5.33,paleodb
+Vitaceae_Vitis_stantoni_yale45,Vitis stantoni,Vitis,Vitaceae,Vitales,rosids,Genus Vitis,Genus Vitis,72.1,66,Vitis,99.6,99.6 - 0.00,paleodb
+Williamsoniellaceae_Williamsoniella_sp_MfN_gbif2,Williamsoniella sp.,Williamsoniella,Williamsoniellaceae,Bennettitales,gymnosperms,Anomozamites_gracilis,Anomozamites,252.17,145,,,,
+Yabeiella_brackebushiana_yale46,Yabeiella brackebushiana,Yabeiella ,NA,Bennettitales,gymnosperms,Anomozamites_gracilis,Anomozamites,247.2,237,,,,
+Yabeiella_mareyesiaca_yale47,Yabeiella mareyesiaca,Yabeiella ,NA,Bennettitales,gymnosperms,Yabeiella_brackebushiana,Genus Yabeiella,247.2,237,,,,
+Yabeiella_spatulata_yale48,Yabeiella spatulata,Yabeiella ,NA,Bennettitales,gymnosperms,Yabeiella_brackebushiana,Genus Yabeiella,247.2,237,,,,
+Yabeiella_wielandi_yale49,Yabeiella wielandi,Yabeiella ,NA,Bennettitales,gymnosperms,Yabeiella_brackebushiana,Genus Yabeiella,247.2,237,,,,
+Zingiberaceae_Zingerberopsis_sp_alberta1,Zingerberopsis sp.,Zingerberopsis,Zingiberaceae,Zingiberales,monocots,Costus_tappenbeckianus-Strelitzia_nicolai,Zingiberaceae,66,56,Zingiberales,83.5,8.5 - 2.58,paleodb
+Rhamnaceae_Zizyphus_florissantii_Florissant_CU_0152_crop,Zizyphus florissantii,Zizyphus,Rhamnaceae,Rosales,rosids,Rhamnus_pirifolia-Sageretia_wrightii,"Rhamnus, Condalia",37.2,33.9,Rhamnaceae,112.03,112.03 - 0.00,paleodb
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Selaginella-Dryopteris (root tree),429,409.6 - 441.7,timetree.org
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Angiopteris-Dryopteris (ferns),393,336.7 - 393.0,timetree.org
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Agathis_lanceolata-Ginkgo_biloba (gymnosperms),390,277.0 - 390.0,timetree.org
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Chloranthus_spicatus-Enicosanthum_cupulare (mesangiosperms + magnoliids),149,139.1 - 158.9,timetree.org
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Acorus_gramineus-Maianthemum_dilatatum (monocots),134,133.0 - 139.1,timetree.org
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Euptelea_pleiosperma-Clematis_pitcheri (b. eudicot 1),112,104.6 - 135.0,timetree.org
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Sabia_paniculata-Banksia_verticiliata (b. eudicot 2),125,119.6 - 137.7,timetree.org
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Soyauxia_grandifolia-Sedum_linearifolium (b. eudicot 3),92,91.3 - 105.6,timetree.org
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Vitis_wilsonae-Gliricidia_ehrenbergii (rosids 1),117,109.8 - 124.4 ,timetree.org
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Aextoxicon_punctatum-Pereskia_aculeata (rosids 2),118,107.7 - 125.0 ,timetree.org
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Heisteria_flexuosa-Gaiadendron_punctatum (rosids 3),91,60.5 - 107.8,timetree.org
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Caracasia_tremadena-Baccharis_sergiloides (asterids),111,97.5 - 109.2,timetree.org
